@@ -35,7 +35,7 @@ class Solution {
 
     }
 
-    // Time complexity : O(n+m)O(n + m)O(n+m)
+    // Time complexity : O(n+m)
 
 // Because exactly one of l1 and l2 is incremented on each loop
 // iteration, the while loop runs for a number of iterations equal to the
