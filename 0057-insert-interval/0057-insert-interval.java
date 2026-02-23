@@ -1,25 +1,30 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        LinkedList<int[]> ls = new LinkedList<>();
+        int n = intervals.length, i = 0;
+        List<int[]> res = new ArrayList<>();
 
-        int i = 0;
-        // non-overlapping with newInterval
-        while (i < intervals.length && intervals[i][1] < newInterval[0]) {
-            ls.add(intervals[i++]);
+        // case 1: No overlapping before merging intervals
+        while(i< n && intervals[i][1] < newInterval[0]) {
+            res.add(intervals[i]);
+            i++;
         }
 
-        while (i < intervals.length && intervals[i][0] <= newInterval[1]) {
+        // case2: overlapping and merge intervals
+        while(i < n && newInterval[1] >= intervals[i][0]) {
             newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
             newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
             i++;
         }
-        // add the merged interval
-        ls.add(newInterval);
-        while (i < intervals.length) {
-            ls.add(intervals[i++]);
+        res.add(newInterval);
+
+        // case3: no overlapping after merging newInterval
+        while(i < n){
+            res.add(intervals[i]);
+            i++;
         }
 
-        // indicates how many sub-arrays the array will contain
-        return ls.toArray(new int[ls.size()][]);
+        return res.toArray(new int[res.size()][]);
+
+
     }
 }
