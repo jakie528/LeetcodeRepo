@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/jakie528/LeetcodeRepo/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
@@ -45,10 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 ## Union-Find
