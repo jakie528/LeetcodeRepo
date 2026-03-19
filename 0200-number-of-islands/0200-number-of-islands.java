@@ -6,7 +6,7 @@ class Solution {
         if(r < 0 || c < 0 || r >= nr || c >= nc || grid[r][c] == '0') {
             return;
         }
-        grid[r][c] = '0';
+        grid[r][c] = '0'; //turning land ('1') into water ('0').
         dfs(grid, r+1, c);
         dfs(grid, r-1, c);
         dfs(grid, r, c-1);
