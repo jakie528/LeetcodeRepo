@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/jakie528/LeetcodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -112,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
