@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0052-n-queens-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0052-n-queens-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
