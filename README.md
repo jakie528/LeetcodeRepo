@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/jakie528/LeetcodeRepo/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -157,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/jakie528/LeetcodeRepo/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 <!---LeetCode Topics End-->
