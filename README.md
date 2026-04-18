@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/jakie528/LeetcodeRepo/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [2057-smallest-index-with-equal-value](https://github.com/jakie528/LeetcodeRepo/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
