@@ -163,4 +163,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/jakie528/LeetcodeRepo/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jakie528/LeetcodeRepo/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jakie528/LeetcodeRepo/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
