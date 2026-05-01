@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/jakie528/LeetcodeRepo/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/jakie528/LeetcodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/jakie528/LeetcodeRepo/tree/main/0035-search-insert-position/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
