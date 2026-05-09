@@ -12,7 +12,7 @@ class Solution {
     private boolean dfs(int m, int n, int[][] maze, int[] curr, int[] destination, boolean[][] visit){
         // if curr cell is already visited, return false
         if(visit[curr[0]][curr[1]]){
-            return false;  // why?
+            return false;  // because if visited twice after trying four directions
         }
         if(curr[0] == destination[0] && curr[1] == destination[1]){
             return true;
@@ -31,6 +31,8 @@ class Solution {
                 c += dirY[i];
             }
 
+            //Starting from this new stopping cell, can the ball eventually reach the destination?"
+            //If it returns true → yes, there's a path from this stopping cell to the destination
             if(dfs(m, n, maze, new int[]{r - dirX[i], c - dirY[i]}, destination, visit)){
                 return true;
             }
