@@ -51,19 +51,20 @@ class LRUCache {
             return; // must return, not execute the below logic
         }
 
-        //add the new node that's not in HashMap
-            ListNode node = new ListNode(key, value);
-            add(node);
-            dict.put(key, node);
 
-        //check capacity after insert node node
-        if(dict.size() > capacity){
+        //check capacity
+        if(dict.size() >= capacity){
             ListNode previousHead = head.next;
             // remove head
             remove(previousHead);
             // remove the value in hashmap as well
             dict.remove(previousHead.key);
         }
+        
+        //add the new node that's not in HashMap
+            ListNode node = new ListNode(key, value);
+            add(node);
+            dict.put(key, node);
 
         
     }
