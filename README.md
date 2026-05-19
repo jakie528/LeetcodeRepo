@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/jakie528/LeetcodeRepo/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0042-trapping-rain-water/) | Hard |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0146-lru-cache](https://github.com/jakie528/LeetcodeRepo/tree/main/0146-lru-cache/) | Medium |
