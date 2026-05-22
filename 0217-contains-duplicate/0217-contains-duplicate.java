@@ -1,19 +1,20 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-      Map<Integer, Integer> map = new HashMap<>();
+      Set<Integer> set = new HashSet<>();
       
       for(int i = 0; i < nums.length; i++){
-         // the same key occur twice - duplicate
-         // otherwise we store the pair
-         if(map.containsKey(nums[i])) {
+         // the same element occur twice - duplicate
+         // otherwise we add the element to the set
+         if(set.contains(nums[i])) {
             return true;
          } else {
-            map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+            set.add(nums[i]);
          }
       }
       
       
          
       return false;
+    
     }
 }
