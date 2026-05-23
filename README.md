@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/jakie528/LeetcodeRepo/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/jakie528/LeetcodeRepo/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
+| [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
