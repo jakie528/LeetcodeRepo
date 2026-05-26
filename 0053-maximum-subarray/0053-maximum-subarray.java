@@ -1,16 +1,16 @@
-
-import java.util.Currency;class Solution {
+class Solution {
     public int maxSubArray(int[] nums) {
-        int maxSubarray = nums[0];
-        int currSubarray = nums[0];
+        int maxSum = nums[0];
+        int currentSum = nums[0];
 
-        for(int i = 1; i < nums.length; i++){
-           int num = nums[i];
+        // Replace this placeholder return statement with your code
+        for (int i = 1; i < nums.length; i++) {
+            //extend the previous subarray or start from the current element
+            currentSum = Math.max(nums[i], currentSum + nums[i]);
 
-           currSubarray = Math.max(num, currSubarray + num);
-           maxSubarray = Math.max(currSubarray, maxSubarray);
+            maxSum = Math.max(maxSum, currentSum);
         }
+        return maxSum;
 
-        return maxSubarray;
     }
 }
