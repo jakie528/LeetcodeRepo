@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakie528/LeetcodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/jakie528/LeetcodeRepo/tree/main/0130-surrounded-regions/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakie528/LeetcodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
