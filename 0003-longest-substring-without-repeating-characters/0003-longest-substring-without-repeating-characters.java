@@ -4,20 +4,21 @@ class Solution {
 
         // map store the character : index pair
         HashMap<Character, Integer> map = new HashMap<>();
+        int start = 0;
 
 
-        //if map.value >1,compare the length
-        for(int i = 0, j=0; j < s.length(); j++) {
-            if(map.containsKey(s.charAt(j))) {
-                //to ignore stale entries that point behind the current window:
-                i = Math.max(map.get(s.charAt(j)),i);
+        //abba
+        for(int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if(map.containsKey(c) && map.get(c)>=start ) {
+                start = map.get(c) + 1;
             }
 
             // no contains the same character
 
-            maxLength = Math.max(maxLength, j-i+1);
+            maxLength = Math.max(maxLength, i-start+1);
             //slot: where i should jump to if this character shows up again
-            map.put(s.charAt(j), j+1);
+            map.put(c,i);
         }
         return maxLength;
         
