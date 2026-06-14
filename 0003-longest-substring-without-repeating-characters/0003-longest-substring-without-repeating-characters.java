@@ -10,7 +10,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (map.containsKey(c) && map.get(c) >= start) {
-                //从之前的那个位置往前挪一位
+                //从之前的存在的那个位置往前挪一位
                 start = map.get(c) + 1;
                 System.out.println("start = " + start +";");
             }
