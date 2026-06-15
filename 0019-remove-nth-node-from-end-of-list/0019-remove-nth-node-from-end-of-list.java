@@ -11,15 +11,16 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         // two pointers in 0 and n-1
-        ListNode L1 = head;
-        ListNode L2 = head;
+        ListNode dummy = new ListNode(-1);
+        dummy.next = head;
+        ListNode L1 = dummy;
+        ListNode L2 = dummy;
 
-        if(L1.next == null && n == 1) return null;
 
         int i = 0;
 
         // move the second pointer
-        while(i < n && L2.next != null) {
+        while(i < n) {
             L2 = L2.next;
             i++;
         }
@@ -36,6 +37,6 @@ class Solution {
         L1.next = L1.next.next;
         }
 
-        return head;
+        return dummy.next;
     }
 }
