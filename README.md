@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/jakie528/LeetcodeRepo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/jakie528/LeetcodeRepo/tree/main/0146-lru-cache/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/jakie528/LeetcodeRepo/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Simulation
