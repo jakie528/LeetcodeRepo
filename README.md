@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/jakie528/LeetcodeRepo/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jakie528/LeetcodeRepo/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
