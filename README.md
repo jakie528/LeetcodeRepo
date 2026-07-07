@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/jakie528/LeetcodeRepo/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/jakie528/LeetcodeRepo/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/jakie528/LeetcodeRepo/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jakie528/LeetcodeRepo/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,4 +322,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
