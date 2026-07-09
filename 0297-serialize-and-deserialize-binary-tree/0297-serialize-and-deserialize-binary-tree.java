@@ -9,41 +9,67 @@
  */
 public class Codec {
 
-    // recursive serialization
-    public String rserialize(TreeNode root, String str) {
-        if(root == null) {
-            str += "null,";
-        } else {
-            str += str.valueOf(root.val) + ",";
-            str = rserialize(root.left, str);
-            str = rserialize(root.right, str);
-        }
-        return str;
-    }
-
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        return rserialize(root, "");
-    }
+        if (root == null)
+            return "";
+        //Traverse the tree to get the value of each string
+        //BFS
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
 
-    public TreeNode rdeserialize(List<String> ls) {
-        if(ls.get(0).equals("null")){
-            ls.remove(0);
-            return null;
+        StringBuilder sb = new StringBuilder();
+
+        while (!queue.isEmpty()) {
+            TreeNode curr = queue.poll();
+            if (curr == null) {
+                sb.append("null,");
+                continue; // skipping adding childern, since null has no children
+            }
+            // if curr is not null, append its value and its children
+            sb.append(curr.val + ",");
+
+            queue.add(curr.left);
+
+            queue.add(curr.right);
         }
 
-        TreeNode root = new TreeNode(Integer.valueOf(ls.get(0)));
-        ls.remove(0);
-        root.left= rdeserialize(ls);
-        root.right = rdeserialize(ls);
-        return root;
+        sb.deleteCharAt(sb.length() - 1);
+        return sb.toString();
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        String[] array = data.split(",");
-        List<String> data_list = new LinkedList<String>(Arrays.asList(array));
-        return rdeserialize(data_list);
+        //check empty string
+        if (data != null && data.isEmpty()) {
+            return null;
+        }
+        String[] values = data.split(",");
+
+        TreeNode root = new TreeNode(Integer.parseInt(values[0]));
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        int index = 1;
+
+        while (!queue.isEmpty()) {
+            TreeNode curr = queue.poll();
+            if (curr != null) { // assign the next two strings as nodes
+                if (!values[index].equals("null")) {
+                    curr.left = new TreeNode(Integer.parseInt(values[index]));
+                    queue.add(curr.left);
+                }
+                index++; // always increment the index even it's null
+
+                if (!values[index].equals("null")) {
+                    curr.right = new TreeNode(Integer.parseInt(values[index]));
+                    queue.add(curr.right);
+                }
+                index++;
+            }
+        }
+
+        return root;
     }
 }
 
