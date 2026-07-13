@@ -14,23 +14,32 @@
  * }
  */
 class Solution {
-    private int max_sum;
+    private int maxSum;
     public int maxPathSum(TreeNode root) {
-        // DFS - post-order traversal
-       max_sum = Integer.MIN_VALUE;
+        maxSum = Integer.MIN_VALUE;
         gainFromSubtree(root);
-
-        return max_sum;
+        return maxSum;
     }
 
-    private int gainFromSubtree(TreeNode root){
+    private int gainFromSubtree(TreeNode root) {
         if(root == null) {
             return 0;
         }
+
+        // post order 
+        // if left and right path sum are negative, thet are count as 0
         int gainFromLeft = Math.max(gainFromSubtree(root.left), 0);
         int gainFromRight = Math.max(gainFromSubtree(root.right), 0);
-        max_sum = Math.max(max_sum, gainFromLeft + gainFromRight + root.val);
 
-        return Math.max(gainFromLeft+ root.val, gainFromRight + root.val);
+        maxSum = Math.max(maxSum, gainFromLeft + gainFromRight + root.val);
+
+        // return its own value plus the best path from one of its child
+        return Math.max(gainFromLeft+root.val, gainFromRight+root.val);
+
     }
+
+
+
+
+
 }
