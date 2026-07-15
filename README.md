@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/jakie528/LeetcodeRepo/tree/main/0146-lru-cache/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/jakie528/LeetcodeRepo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/jakie528/LeetcodeRepo/tree/main/0146-lru-cache/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/jakie528/LeetcodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
