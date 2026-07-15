@@ -14,12 +14,13 @@ class Solution {
         if(root == p) return p;
         if(root == q) return q;
 
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
+        if(p.val > root.val && q.val > root.val) return lowestCommonAncestor(root.right, p, q);
+        if(p.val < root.val && q.val < root.val) return lowestCommonAncestor(root.left, p, q);
+        // we have found the split point, i.e. the LCA node
+        return root;
 
-        if(left != null && right != null) return root;
-        
-        return left == null ? right : left;
+
+
 
         
     }
