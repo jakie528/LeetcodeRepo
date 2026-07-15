@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 ## Breadth-First Search
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,4 +360,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
