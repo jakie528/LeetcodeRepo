@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/jakie528/LeetcodeRepo/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jakie528/LeetcodeRepo/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/jakie528/LeetcodeRepo/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/jakie528/LeetcodeRepo/tree/main/0207-course-schedule/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jakie528/LeetcodeRepo/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jakie528/LeetcodeRepo/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jakie528/LeetcodeRepo/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
