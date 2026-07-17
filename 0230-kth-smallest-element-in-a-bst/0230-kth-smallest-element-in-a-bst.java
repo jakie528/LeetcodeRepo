@@ -15,20 +15,29 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        LinkedList<TreeNode> stack = new LinkedList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root;
+        int i = 0;
+        while (curr != null || !stack.isEmpty()) {
 
-        while(true) {
-            while(root != null) {
-            stack.push(root);
-            root = root.left;
+            // phase 1: go as far left as possible
+            while (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
             }
-        
-        root = stack.pop();
-        // k decrement by 1 then compare with 0
-        if(--k == 0) 
-        return root.val;
-        //to right tree
-        root = root.right;
+
+            // phase2: We hit null! Time to process nodes from the stack.
+            curr = stack.pop(); // 1 pop up 
+            i++;
+            if (i == k) {
+                return curr.val;
+            }
+
+            curr = curr.right;
+
         }
+
+        return -1;
+
     }
 }
