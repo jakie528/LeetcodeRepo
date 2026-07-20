@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/jakie528/LeetcodeRepo/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/jakie528/LeetcodeRepo/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/jakie528/LeetcodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0090-subsets-ii/) | Medium |
