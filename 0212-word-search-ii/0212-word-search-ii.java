@@ -1,83 +1,81 @@
-class TrieNode {
-    HashMap<Character, TrieNode> children = new HashMap<Character, TrieNode>();
-    String word = null;
-
-    public TrieNode() {}
-}
-
 class Solution {
-    char[][] board = null;
-    ArrayList<String> result = new ArrayList<String>();
+    TrieNode root;
 
     public List<String> findWords(char[][] board, String[] words) {
-        TrieNode root = new TrieNode();
-        for(String word: words) {
-            TrieNode node = root;
-            for(Character letter : word.toCharArray()) {
-                if(node.children.containsKey(letter)) {
-                    node = node.children.get(letter);
-                } else {
-                    TrieNode newNode = new TrieNode();
-                    node.children.put(letter, newNode);
-                    node = newNode;
-                }
-            }
-            node.word = word; //?
+        List<String> ls = new ArrayList<>();
+        root = new TrieNode();
+        for (String word : words) {
+            insert(word);
         }
-
-        this.board = board;
-
-        //backtrack
-        for(int row = 0; row < board.length; row++) {
-            for(int col = 0; col < board[row].length; col++) {
-                if(root.children.containsKey(board[row][col])) {
-                    backtracking(row, col, root);
-                }
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                dfs(board, i, j, root, ls);
             }
         }
-        return this.result;
+
+        return ls;
     }
 
-    private void backtracking (int row, int col, TrieNode parent) {
-        Character letter = this.board[row][col];
-        TrieNode currNode = parent.children.get(letter);
-
-        if(currNode.word != null) {
-            this.result.add(currNode.word);
-            currNode.word = null;
-        }
-
-        this.board[row][col] = '#';
-
-        // up right down left
-        int[] rowoffset = {-1, 0, 1, 0};
-        int[] coloffset = {0, 1, 0, -1};
-
-        for(int i = 0; i < 4; i++) {
-            int newRow = row + rowoffset[i];
-            int newCol = col + coloffset[i];
-
-            if(newRow < 0 ||
-            newRow >= this.board.length ||
-            newCol < 0 ||
-            newCol >= this.board[0].length) {
-                continue;
+    public void insert(String word) {
+        TrieNode curr = root;
+        for (char c : word.toCharArray()) {
+            if (curr.children[c - 'a'] == null) {
+                TrieNode newNode = new TrieNode();
+                curr.children[c - 'a'] = newNode;
             }
-
-            if(currNode.children.containsKey(this.board[newRow][newCol])){
-                backtracking(newRow, newCol, currNode);
-            }
+            // move the curr pointer to the newly created node
+            curr = curr.children[c - 'a'];
         }
-
-        this.board[row][col] = letter;
-
-        if(currNode.children.isEmpty()) {
-           
-                parent.children.remove(letter);
-            }
-        }
-
+        curr.isEndOfWord = true;
+        curr.word = word;
     }
 
+    public void dfs(char[][] board, int i, int j, TrieNode node, List<String> list) {
+        if (i < 0 || i >= board.length || j < 0 || j >= board[0].length) {
+            return;
+        }
 
+        if (board[i][j] == '#') {
+            return;
+        }
+        int boardIndex = board[i][j] - 'a';
 
+        // If no child exists for this character, return
+        if (node.children[boardIndex] == null) {
+            return;
+        }
+        // move to the cild node
+        node = node.children[boardIndex];
+
+        if (node.word != null) {
+            list.add(node.word);
+            node.word = null; // avoid duplicate additions
+        }
+        // mark original chart as visited
+        char originalChar = board[i][j];
+        board[i][j] = '#';
+
+        int[] rowOffset = { -1, 0, 1, 0 };
+        int[] colOffset = { 0, 1, 0, -1 };
+
+        for (int k = 0; k < 4; k++) {
+            int newRow = i + rowOffset[k];
+            int newCol = j + colOffset[k];
+            dfs(board, newRow, newCol, node, list);
+        }
+        board[i][j] = originalChar;
+
+    }
+}
+
+class TrieNode {
+    TrieNode[] children;
+    Boolean isEndOfWord;
+    String word;
+
+    public TrieNode() {
+        word = null;
+        isEndOfWord = false;
+        children = new TrieNode[26];
+    }
+}
