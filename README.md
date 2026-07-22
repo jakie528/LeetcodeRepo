@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0339-nested-list-weight-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0226-invert-binary-tree/) | Easy |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/jakie528/LeetcodeRepo/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/jakie528/LeetcodeRepo/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 ## Sorting
