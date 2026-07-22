@@ -6,8 +6,8 @@ class Solution {
         // Build the graph
         List<List<Integer>> ls = new ArrayList<>();
 
-        for(int i = 0; i < n; i++) {
-            ls.add(new ArrayList<>());  // each vertex has a list
+        for (int i = 0; i < n; i++) {
+            ls.add(new ArrayList<>()); // each vertex has a list
         }
 
         for (int[] edge : edges) {
@@ -19,11 +19,9 @@ class Solution {
         for (int i = 0; i < n; i++) {
             if (!set.contains(i)) {
                 components++;
-                dfs(i,ls, set);
+                dfs(i, ls, set);
             }
-
         }
-
         return components;
     }
 
@@ -33,9 +31,8 @@ class Solution {
         }
         // add other vertex to this component
         visited.add(i);
-
         for (int neighbor : ls.get(i)) {
-            dfs(neighbor,ls, visited);
+            dfs(neighbor, ls, visited);
         }
 
     }
