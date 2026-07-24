@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/jakie528/LeetcodeRepo/tree/main/0057-insert-interval/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/jakie528/LeetcodeRepo/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/jakie528/LeetcodeRepo/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/jakie528/LeetcodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0090-subsets-ii/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/jakie528/LeetcodeRepo/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jakie528/LeetcodeRepo/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/jakie528/LeetcodeRepo/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/jakie528/LeetcodeRepo/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
