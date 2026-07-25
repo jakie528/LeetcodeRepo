@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/jakie528/LeetcodeRepo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0252-meeting-rooms](https://github.com/jakie528/LeetcodeRepo/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
+| [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/jakie528/LeetcodeRepo/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0226-invert-binary-tree/) | Easy |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
+| [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0339-nested-list-weight-sum/) | Medium |
@@ -123,12 +126,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/jakie528/LeetcodeRepo/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
+| [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/jakie528/LeetcodeRepo/tree/main/0207-course-schedule/) | Medium |
+| [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/jakie528/LeetcodeRepo/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
+| [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
