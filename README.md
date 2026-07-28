@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/jakie528/LeetcodeRepo/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jakie528/LeetcodeRepo/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/jakie528/LeetcodeRepo/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/jakie528/LeetcodeRepo/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jakie528/LeetcodeRepo/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/jakie528/LeetcodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/jakie528/LeetcodeRepo/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jakie528/LeetcodeRepo/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/jakie528/LeetcodeRepo/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
@@ -325,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/jakie528/LeetcodeRepo/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0090-subsets-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
 ## Trie
