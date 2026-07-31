@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
+| [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
