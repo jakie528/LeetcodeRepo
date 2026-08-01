@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/jakie528/LeetcodeRepo/tree/main/0271-encode-and-decode-strings/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/jakie528/LeetcodeRepo/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
 ## Bit Manipulation
