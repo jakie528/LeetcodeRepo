@@ -1,22 +1,42 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        //the length of the longest increasing subsequence that ends exactly at index i
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp, 1);
-        // when nums.length = 1, it's 1
-        dp[0] = 1;
+        ArrayList<Integer> sub = new ArrayList<>();
+        sub.add(nums[0]);
 
-        int res = 1;
-
-        for(int i = 1; i < dp.length; i++) { // i = 5
-            for(int j = 0; j < i; j++) { // j = 2
-                // when nums[j] > nums[i]
-                if(nums[i] > nums[j]) { // 5 > 2
-                dp[i] = Math.max(dp[i], dp[j] + 1);
-                res = Math.max(res, dp[i]);
-                }
+        for(int i = 1; i < nums.length; i++) {
+            if(nums[i] > sub.get(sub.size() - 1)) {
+                sub.add(nums[i]);
+            } else {
+                // find the index from the sub (the 1st element >= nums[i]) and replace it 
+                int j = binarySearch(sub, nums[i]);
+                sub.set(j, nums[i]);
             }
         }
-        return res;
+        return sub.size();
+    }
+
+// find the first element that's >= num
+    private int binarySearch(ArrayList<Integer> sub, int num) {
+        int left = 0; 
+        int right = sub.size() - 1;
+        while(left < right) {
+            int mid = (left + right) / 2; 
+            if(sub.get(mid) == num) {
+                return mid;
+            }
+            //the element we want to replace must be further to the right
+            if(sub.get(mid) < num) {
+                left = mid + 1;
+            } else 
+            // mid could be the answer
+            // or answer cound be further to the left
+            // so we can't discard mid
+            {
+                right = mid;
+            }
+        }
+
+        return right;
+
     }
 }
