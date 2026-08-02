@@ -38,8 +38,8 @@ class Solution {
         for(int i = startIndex; i < candidates.length; ++i) {
             // add current candidate to the combination
             currentCombination.add(candidates[i]);
-            // Recursively search with the same starting index (allowing reuse)
-            // and reduced target
+            // Recursively search with the same i not i+1 (would use only once)
+            // just pick candidates[i]), remaining is remainingTarget - candidates[i]
             dfs(i, remainingTarget - candidates[i]);
             // Backtrack: remove the last added candidate
             currentCombination.remove(currentCombination.size() - 1);
