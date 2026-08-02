@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/jakie528/LeetcodeRepo/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/jakie528/LeetcodeRepo/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jakie528/LeetcodeRepo/tree/main/0070-climbing-stairs/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/jakie528/LeetcodeRepo/tree/main/1360-number-of-days-between-two-dates/) | Easy |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/jakie528/LeetcodeRepo/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jakie528/LeetcodeRepo/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/jakie528/LeetcodeRepo/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakie528/LeetcodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -438,4 +440,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/jakie528/LeetcodeRepo/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/jakie528/LeetcodeRepo/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
