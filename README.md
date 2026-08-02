@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/jakie528/LeetcodeRepo/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/jakie528/LeetcodeRepo/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/jakie528/LeetcodeRepo/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/jakie528/LeetcodeRepo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/jakie528/LeetcodeRepo/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/jakie528/LeetcodeRepo/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakie528/LeetcodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
