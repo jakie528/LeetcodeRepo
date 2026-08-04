@@ -2,8 +2,8 @@ class Solution {
     public int[] topKFrequent(int[] nums, int k) {
 
         HashMap<Integer, Integer> map = new HashMap<>();
-        // default as min heap. negative result. n1 goes before n2
-        PriorityQueue<Integer> pq = new PriorityQueue<>((n1, n2) -> map.get(n2) - map.get(n1));
+        // max-heap by frequency
+        PriorityQueue<Integer> pq = new PriorityQueue<>((n1, n2) -> Integer.compare(map.get(n2), map.get(n1)));
 
         for(int num : nums) {
             map.put(num, map.getOrDefault(num, 0)+1);
