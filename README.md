@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/jakie528/LeetcodeRepo/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/jakie528/LeetcodeRepo/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/jakie528/LeetcodeRepo/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jakie528/LeetcodeRepo/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/jakie528/LeetcodeRepo/tree/main/0078-subsets/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/jakie528/LeetcodeRepo/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/jakie528/LeetcodeRepo/tree/main/0242-valid-anagram/) | Easy |
 | [0252-meeting-rooms](https://github.com/jakie528/LeetcodeRepo/tree/main/0252-meeting-rooms/) | Easy |
@@ -470,4 +472,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/jakie528/LeetcodeRepo/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
