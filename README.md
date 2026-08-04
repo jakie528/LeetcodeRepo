@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0339-nested-list-weight-sum](https://github.com/jakie528/LeetcodeRepo/tree/main/0339-nested-list-weight-sum/) | Medium |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -463,4 +466,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/1143-longest-common-subsequence/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
