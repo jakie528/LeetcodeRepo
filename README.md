@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/jakie528/LeetcodeRepo/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Eulerian Circuit
