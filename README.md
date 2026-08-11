@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/jakie528/LeetcodeRepo/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/jakie528/LeetcodeRepo/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
