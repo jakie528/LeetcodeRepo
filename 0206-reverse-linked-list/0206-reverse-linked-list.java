@@ -10,21 +10,25 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode next = null;
+        // store the prev node
+        ListNode node = null;
+        ListNode prev = node;
 
+        // store the current node
         ListNode curr = head;
-        while (curr != null) {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+
+        while(curr!= null) {
+         //store the next node 
+        ListNode next = curr.next;
+
+        // current node point to prev node
+        curr.next = prev;
+        // move the prev / curr pointer to the next node
+        prev = curr;
+        curr = next;
 
         }
-        // assign head to the prev
-        head = prev;
 
-        return head;
-
+        return prev;
     }
 }
