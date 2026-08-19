@@ -10,50 +10,45 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        // two pointer
-        ListNode prevHead = new ListNode(-1);
-
-        prevHead.next = head;
-
-        // find the middle node
+        if(head == null) return;
+        //find median: slow and fast pointer.
+        // no dummy node
         ListNode slow = head;
         ListNode fast = head;
-
-
         while(fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-
-        // reverse the second part of the list
+        // what slow point to is the median node
+        // reverse the part
+      
         ListNode prev = null;
-        ListNode curr = slow;
-        ListNode temp;
+        // store the head node
+        ListNode curr = slow, tmp;
+
 
         while(curr != null) {
-            temp = curr.next;
+            // store the next node
+            tmp = curr.next;
             curr.next = prev;
-
+            // tmp.next = curr;
             prev = curr;
-            curr = temp;
+            curr = tmp;
         }
 
-        // merged two lists
+        // merge two Linkedlits
         ListNode first = head;
         ListNode second = prev;
 
         while(second.next != null) {
-            temp = first.next;
+            tmp = first.next;
             first.next = second;
-            first = temp;
-
-            temp = second.next;
+            // move the head pointer to the next node as well
+            first = tmp;
+            
+            tmp = second.next;
             second.next = first;
-            second =temp;
+            second = tmp;
         }
-
-
-
-
     }
 }
