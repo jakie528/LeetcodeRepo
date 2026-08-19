@@ -29,16 +29,14 @@ class Solution {
             curr = tmp;
         }
 
-        // prev is new head of the current group
-        // right now curr is point to null
-        // the head node become the tail node after k nodes reversed
-        // curr 指向下一组节点的第一个节点
+        // prev is the new head
 
-        // 将当前组的尾巴连上递归处理后的下一组的头节点
+        // curr is the head of a new group
         if(curr != null) {
+            // use head.next to connect next group
             head.next = reverseKGroup(curr, k);
         }
 
-        return prev;
+        return prev;  
     }
 }
