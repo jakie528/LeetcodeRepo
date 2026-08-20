@@ -15,30 +15,33 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        if(root == null) return new ArrayList<>();
-        // use bfs
+        if (root == null)
+            return new ArrayList<>();
+
         Queue<TreeNode> queue = new LinkedList<>();
-        List<List<Integer>> ls = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
+
         queue.add(root);
 
         while (!queue.isEmpty()) {
-            int levelSize = queue.size();
-            List<Integer> layer = new ArrayList<>();
-            for(int i = 0; i < levelSize; i++) {
-                TreeNode curr = queue.poll();
-                layer.add(curr.val);
-                if (curr.left != null) {
-                    queue.add(curr.left);
+            List<Integer> currentLevel = new ArrayList<>();
+            int size = queue.size();
+
+            for (int i = 0; i < size; i++) { // 1
+                TreeNode node = queue.poll(); //node = 3
+                currentLevel.add(node.val);  //3
+
+                if (node.left != null) {
+                    queue.add(node.left); // 9
                 }
-                if (curr.right != null) {
-                    queue.add(curr.right);
+                if (node.right != null) {
+                    queue.add(node.right);  //20
                 }
             }
-            // Add the completed layer to the main list
-            ls.add(layer);
+            res.add(currentLevel); // 3
         }
 
-        return ls;
+        return res;
 
     }
 }
