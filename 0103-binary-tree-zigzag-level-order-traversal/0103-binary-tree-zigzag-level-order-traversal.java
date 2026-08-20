@@ -19,16 +19,25 @@ class Solution {
         List<List<Integer>> res = new ArrayList<>();
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
-        int layer = 0;
+        boolean leftToRight = true;
         // odd: right to left
         // even: left to right
         while(!queue.isEmpty()) {
-            List<Integer> currentLevel = new ArrayList<>();
+            // Use a LinkedList to allow O(1) insertions at both the head and tail
+            LinkedList<Integer> currentLevel = new LinkedList<>();
             int size = queue.size();
 
             for(int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
-                currentLevel.add(node.val);
+
+                // If left to right, append to the end
+                // If right to left, insert at the beginning.
+                if(leftToRight) {
+                    currentLevel.addLast(node.val);
+                } else {
+                    currentLevel.addFirst(node.val);
+                }
+
                 if(node.left != null) {
                     queue.add(node.left);
                 }
@@ -36,13 +45,9 @@ class Solution {
                     queue.add(node.right);
                 }
             }
-            layer++; //1 is the 1st layer
-
-            // Reverse the layer if it's even number
-            if(layer % 2 == 0) {
-            Collections.reverse(currentLevel);
-            } 
             res.add(currentLevel);
+            // flip
+            leftToRight = !leftToRight;
         }
         return res;
     }
