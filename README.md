@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/jakie528/LeetcodeRepo/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0072-edit-distance](https://github.com/jakie528/LeetcodeRepo/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/jakie528/LeetcodeRepo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/jakie528/LeetcodeRepo/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/jakie528/LeetcodeRepo/tree/main/0091-decode-ways/) | Medium |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/jakie528/LeetcodeRepo/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/jakie528/LeetcodeRepo/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/jakie528/LeetcodeRepo/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/jakie528/LeetcodeRepo/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/jakie528/LeetcodeRepo/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakie528/LeetcodeRepo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
