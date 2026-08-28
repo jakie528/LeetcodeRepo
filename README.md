@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/jakie528/LeetcodeRepo/tree/main/0054-spiral-matrix/) | Medium |
+| [2739-total-distance-traveled](https://github.com/jakie528/LeetcodeRepo/tree/main/2739-total-distance-traveled/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/jakie528/LeetcodeRepo/tree/main/0070-climbing-stairs/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/jakie528/LeetcodeRepo/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [2739-total-distance-traveled](https://github.com/jakie528/LeetcodeRepo/tree/main/2739-total-distance-traveled/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
