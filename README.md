@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/jakie528/LeetcodeRepo/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/jakie528/LeetcodeRepo/tree/main/0359-logger-rate-limiter/) | Easy |
+| [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,4 +524,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 <!---LeetCode Topics End-->
