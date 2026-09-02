@@ -1,30 +1,15 @@
 class Solution {
     public int minMeetingRooms(int[][] intervals) {
-        // Sort the array by start time
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-        // Create a min-heap
-        PriorityQueue<Integer> queue = new PriorityQueue<>();
-        // Add the end time to the PriorityQueue
-        queue.add(intervals[0][1]);
-
-        int rooms = 1;
-
-        for (int i = 1; i < intervals.length; i++) {
-            int earliestEndTime = queue.peek(); //4
-
-            //Free meeting room: if the new meeting startTime is beginning after the earliestEndTime, poll the topmost element and add the new meeting.
-            if (intervals[i][0] >= earliestEndTime) {
-                queue.poll();
-                queue.add(intervals[i][1]);
-            } else {
-            // add a new meeting room
-                rooms++;
-                queue.add(intervals[i][1]);
+        Arrays.sort(intervals, (a, b)->(a[0]-b[0]));
+        // min heap sorted by endtime 
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b)->(a[1]-b[1]));
+        for (int[] interval : intervals) {
+            // the most earlier end time finish, can start the meeting in the same meeting room
+            if (!pq.isEmpty() && pq.peek()[1] <= interval[0]) {
+                pq.poll();
             }
-
+            pq.add(interval);
         }
-
-        return rooms;
-
+        return pq.size();
     }
 }
