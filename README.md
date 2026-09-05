@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0611-valid-triangle-number](https://github.com/jakie528/LeetcodeRepo/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0611-valid-triangle-number](https://github.com/jakie528/LeetcodeRepo/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 ## Two Pointers
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0611-valid-triangle-number](https://github.com/jakie528/LeetcodeRepo/tree/main/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [1023-camelcase-matching](https://github.com/jakie528/LeetcodeRepo/tree/main/1023-camelcase-matching/) | Medium |
 ## Greedy
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/jakie528/LeetcodeRepo/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0611-valid-triangle-number](https://github.com/jakie528/LeetcodeRepo/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -373,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/jakie528/LeetcodeRepo/tree/main/0611-valid-triangle-number/) | Medium |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
