@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,4 +546,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
+## Heuristic Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
+## A* Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
 <!---LeetCode Topics End-->
