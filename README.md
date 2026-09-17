@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jakie528/LeetcodeRepo/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
