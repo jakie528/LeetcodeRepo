@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/jakie528/LeetcodeRepo/tree/main/0338-counting-bits/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/jakie528/LeetcodeRepo/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0090-subsets-ii/) | Medium |
+| [0338-counting-bits](https://github.com/jakie528/LeetcodeRepo/tree/main/0338-counting-bits/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
