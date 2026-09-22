@@ -1,30 +1,23 @@
 class MovingAverage {
-    Deque<Integer> queue = new ArrayDeque<>();
-    int size = 0;
-    int windowSize = 0;
-    int sum = 0;
-    double res = 0;
+    private Queue<Integer> queue;
+    private int sum;
+    private int size;
 
     public MovingAverage(int size) {
         this.size = size;
+        this.queue = new LinkedList<>();
+        this.sum = sum;
     }
-    
+    // [3, [10],[3],[5]]
     public double next(int val) {
-        if(windowSize < size) {
-            windowSize++;
-            // sum += val;
-            // queue.addLast(val);
-            // res = sum/windowSize;
-        } else {
-            sum -= queue.pollFirst();
-            // queue.addLast(val);
-            // sum += val;
-            // res = sum/windowSize;
+        // calculate the average within the size
+        queue.add(val);
+        if(queue.size() > size) {
+            int num = queue.poll();  // remove the head from the queue
+            sum -= num;
         }
         sum += val;
-        queue.addLast(val);
-        res = (double)sum / windowSize;
-        return res;
+        return (double)sum/queue.size();
     }
 }
 
