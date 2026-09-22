@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,4 +579,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 <!---LeetCode Topics End-->
