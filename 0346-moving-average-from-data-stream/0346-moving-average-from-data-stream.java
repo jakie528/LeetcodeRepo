@@ -6,7 +6,7 @@ class MovingAverage {
     public MovingAverage(int size) {
         this.size = size;
         this.queue = new LinkedList<>();
-        this.sum = sum;
+        this.sum = 0;
     }
     // [3, [10],[3],[5]]
     public double next(int val) {
