@@ -11,7 +11,8 @@ class Solution {
     private Set<TreeNode> set = new HashSet<>();
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode[] nodes) {
-        // traverse until we have all the nodes
+        // use set so we don't need to go further.
+        // O(1)
         for(TreeNode node : nodes) {
             set.add(node);
         }
@@ -19,6 +20,7 @@ class Solution {
     }
 
     private TreeNode dfs(TreeNode root){
+        // if node in the set, we just return and not go to the childs
         if(root == null || set.contains(root)) {
             return root;
         }
@@ -30,6 +32,11 @@ class Solution {
         if(right == null) {
             return left;
         }
-        return root;
-    }
+
+        // if l and r not null
+            return root;
 }
+}
+
+// T: O(N)convert the nodes to the hashset + O(N)traverse the binary tree -> O(2N) 
+// S: Set store O(N) and recursion O(N)
