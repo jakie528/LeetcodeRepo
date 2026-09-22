@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/moving-average-from-data-stream/">346. Moving Average from Data Stream</a></h2><h3>Easy</h3><hr><p>Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.</p>
+<h2><a href="https://leetcode.com/problems/moving-average-from-data-stream">346. Moving Average from Data Stream</a></h2><h3>Easy</h3><hr><p>Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.</p>
 
 <p>Implement the&nbsp;<code>MovingAverage</code> class:</p>
 
