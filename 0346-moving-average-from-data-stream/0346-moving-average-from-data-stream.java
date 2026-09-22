@@ -11,11 +11,10 @@ class MovingAverage {
     // [3, [10],[3],[5]]
     public double next(int val) {
         // calculate the average within the size
-        queue.add(val);
-        if(queue.size() > size) {
-            int num = queue.poll();  // remove the head from the queue
-            sum -= num;
+        if(queue.size() == size) {
+            sum  -= queue.poll();  // remove the head from the queue
         }
+        queue.offer(val);
         sum += val;
         return (double)sum/queue.size();
     }
