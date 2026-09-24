@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 ## Breadth-First Search
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/jakie528/LeetcodeRepo/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -490,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/jakie528/LeetcodeRepo/tree/main/0338-counting-bits/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Bit Manipulation
@@ -587,4 +592,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
