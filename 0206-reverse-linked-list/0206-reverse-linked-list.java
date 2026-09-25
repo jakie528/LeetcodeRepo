@@ -10,25 +10,15 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        // store the prev node
-        ListNode node = null;
-        ListNode prev = node;
-
-        // store the current node
+        ListNode prev = null;
         ListNode curr = head;
 
         while(curr!= null) {
-         //store the next node 
-        ListNode next = curr.next;
-
-        // current node point to prev node
-        curr.next = prev;
-        // move the prev / curr pointer to the next node
-        prev = curr;
-        curr = next;
-
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
-
         return prev;
     }
 }
