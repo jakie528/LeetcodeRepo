@@ -10,31 +10,29 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        // two pointers in 0 and n-1
         ListNode dummy = new ListNode(-1);
-        dummy.next = head;
-        ListNode L1 = dummy;
-        ListNode L2 = dummy;
+        ListNode prev = dummy;
+        prev.next = head;
 
-
-        int i = 0;
-
-        // move the second pointer
-        while(i < n) {
-            L2 = L2.next;
-            i++;
+        int count = 0;
+        // calculate the nodes
+        while(head != null) {
+            head = head.next;
+            count++;
         }
 
+        int targetIndex = count - n; //  3-3 = 0
+        int currCount = 0;
 
-        // move together
-        while(L2 != null && L2.next != null) {
-            L1 = L1.next;
-            L2 = L2.next;
-        }
-
-        // L1 remove the next node
-        if(L1 != null && L1.next != null) {
-        L1.next = L1.next.next;
+        // [1,2,3]
+        while(prev != null && prev.next != null) {
+            // check before moving
+            if(currCount == targetIndex) { // 
+                prev.next = prev.next.next;
+                break;
+            }
+            prev = prev.next;
+            currCount++;
         }
 
         return dummy.next;
