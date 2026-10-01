@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/jakie528/LeetcodeRepo/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/jakie528/LeetcodeRepo/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Simulation
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jakie528/LeetcodeRepo/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
