@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
