@@ -25,8 +25,8 @@ class Solution {
                     charsWithTargetCount--;
                 }
                 // remove the left side
-                if(j >= windowSize) {
-                    int leftCharIndex = s.charAt(j - windowSize)-'a';
+                if(j >= windowSize) { //abcd,ws=3
+                    int leftCharIndex = s.charAt(j - windowSize)-'a';  // when d, i = 3, 3-3=0
                     charFrequency[leftCharIndex]--;
                     if(charFrequency[leftCharIndex] == count){
                         charsWithTargetCount++;
