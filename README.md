@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/jakie528/LeetcodeRepo/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/jakie528/LeetcodeRepo/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/jakie528/LeetcodeRepo/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/jakie528/LeetcodeRepo/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/jakie528/LeetcodeRepo/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
