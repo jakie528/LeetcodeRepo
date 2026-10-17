@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jakie528/LeetcodeRepo/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/jakie528/LeetcodeRepo/tree/main/0346-moving-average-from-data-stream/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/jakie528/LeetcodeRepo/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/jakie528/LeetcodeRepo/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jakie528/LeetcodeRepo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/0647-palindromic-substrings/) | Medium |
@@ -556,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/jakie528/LeetcodeRepo/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2067-number-of-equal-count-substrings](https://github.com/jakie528/LeetcodeRepo/tree/main/2067-number-of-equal-count-substrings/) | Medium |
