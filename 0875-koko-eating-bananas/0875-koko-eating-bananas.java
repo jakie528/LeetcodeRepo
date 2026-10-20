@@ -5,6 +5,7 @@ class Solution {
         int left = 1;
         int right = 1;
         for(int pile : piles) {
+            // h >= piles.length
           right = Math.max(pile, right);
         }
 
