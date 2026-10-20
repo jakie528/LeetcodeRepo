@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/jakie528/LeetcodeRepo/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/jakie528/LeetcodeRepo/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1023-camelcase-matching](https://github.com/jakie528/LeetcodeRepo/tree/main/1023-camelcase-matching/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/jakie528/LeetcodeRepo/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/jakie528/LeetcodeRepo/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Eulerian Circuit
