@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/jakie528/LeetcodeRepo/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/jakie528/LeetcodeRepo/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/jakie528/LeetcodeRepo/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/jakie528/LeetcodeRepo/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/jakie528/LeetcodeRepo/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/jakie528/LeetcodeRepo/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
