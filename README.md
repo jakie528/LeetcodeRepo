@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0729-my-calendar-i](https://github.com/jakie528/LeetcodeRepo/tree/main/0729-my-calendar-i/) | Medium |
+| [0815-bus-routes](https://github.com/jakie528/LeetcodeRepo/tree/main/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/jakie528/LeetcodeRepo/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/jakie528/LeetcodeRepo/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0815-bus-routes](https://github.com/jakie528/LeetcodeRepo/tree/main/0815-bus-routes/) | Hard |
 | [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jakie528/LeetcodeRepo/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [0815-bus-routes](https://github.com/jakie528/LeetcodeRepo/tree/main/0815-bus-routes/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
