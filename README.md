@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-camelcase-matching](https://github.com/jakie528/LeetcodeRepo/tree/main/1023-camelcase-matching/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/jakie528/LeetcodeRepo/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jakie528/LeetcodeRepo/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/jakie528/LeetcodeRepo/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/jakie528/LeetcodeRepo/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/jakie528/LeetcodeRepo/tree/main/1676-lowest-common-ancestor-of-a-binary-tree-iv/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0815-bus-routes](https://github.com/jakie528/LeetcodeRepo/tree/main/0815-bus-routes/) | Hard |
 | [1197-minimum-knight-moves](https://github.com/jakie528/LeetcodeRepo/tree/main/1197-minimum-knight-moves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jakie528/LeetcodeRepo/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jakie528/LeetcodeRepo/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jakie528/LeetcodeRepo/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/jakie528/LeetcodeRepo/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -408,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/jakie528/LeetcodeRepo/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/jakie528/LeetcodeRepo/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
@@ -668,4 +675,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/jakie528/LeetcodeRepo/tree/main/0022-generate-parentheses/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/jakie528/LeetcodeRepo/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
