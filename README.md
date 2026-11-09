@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/jakie528/LeetcodeRepo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/jakie528/LeetcodeRepo/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/jakie528/LeetcodeRepo/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jakie528/LeetcodeRepo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jakie528/LeetcodeRepo/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0252-meeting-rooms](https://github.com/jakie528/LeetcodeRepo/tree/main/0252-meeting-rooms/) | Easy |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/jakie528/LeetcodeRepo/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jakie528/LeetcodeRepo/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0212-word-search-ii/) | Hard |
+| [0221-maximal-square](https://github.com/jakie528/LeetcodeRepo/tree/main/0221-maximal-square/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/jakie528/LeetcodeRepo/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0490-the-maze](https://github.com/jakie528/LeetcodeRepo/tree/main/0490-the-maze/) | Medium |
 | [0695-max-area-of-island](https://github.com/jakie528/LeetcodeRepo/tree/main/0695-max-area-of-island/) | Medium |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/jakie528/LeetcodeRepo/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/jakie528/LeetcodeRepo/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/jakie528/LeetcodeRepo/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/jakie528/LeetcodeRepo/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/jakie528/LeetcodeRepo/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/jakie528/LeetcodeRepo/tree/main/0338-counting-bits/) | Easy |
