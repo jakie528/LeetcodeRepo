@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2057-smallest-index-with-equal-value](https://github.com/jakie528/LeetcodeRepo/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/jakie528/LeetcodeRepo/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/jakie528/LeetcodeRepo/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [2740-find-the-value-of-the-partition](https://github.com/jakie528/LeetcodeRepo/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/jakie528/LeetcodeRepo/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jakie528/LeetcodeRepo/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jakie528/LeetcodeRepo/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/jakie528/LeetcodeRepo/tree/main/0721-accounts-merge/) | Medium |
+| [2740-find-the-value-of-the-partition](https://github.com/jakie528/LeetcodeRepo/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
